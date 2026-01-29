@@ -8,5 +8,6 @@ namespace zzzz.MVVM.Models
 {
     internal class User
     {
+        const IDisposable me thang thong = new IDisposable();
     }
 }
