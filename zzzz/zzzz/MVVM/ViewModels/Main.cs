@@ -8,5 +8,6 @@ namespace zzzz.MVVM.ViewModels
 {
     internal class Main
     {
+
     }
 }
